@@ -1,0 +1,162 @@
+[
+  {
+    "id": "drought",
+    "file": "assets/vocab/drought.png",
+    "source_upload": "drought_7183.png",
+    "trimmed_from_box": [
+      96,
+      84,
+      268,
+      236
+    ],
+    "size_wh": [
+      172,
+      138
+    ],
+    "note": "Inner photo only. Yellow frame, page background, neighbouring pictures, and printed English labels were trimmed so picture match is not spoiled."
+  },
+  {
+    "id": "tornado",
+    "file": "assets/vocab/tornado.png",
+    "source_upload": "tornado_2fd4.png",
+    "trimmed_from_box": [
+      160,
+      112,
+      388,
+      265
+    ],
+    "size_wh": [
+      228,
+      153
+    ],
+    "note": "Inner photo only. Yellow frame, page background, neighbouring pictures, and printed English labels were trimmed so picture match is not spoiled."
+  },
+  {
+    "id": "typhoon",
+    "file": "assets/vocab/typhoon.png",
+    "source_upload": "typhoon_caa5.png",
+    "trimmed_from_box": [
+      108,
+      128,
+      348,
+      250
+    ],
+    "size_wh": [
+      240,
+      122
+    ],
+    "note": "Inner photo only. Yellow frame, page background, neighbouring pictures, and printed English labels were trimmed so picture match is not spoiled."
+  },
+  {
+    "id": "flood",
+    "file": "assets/vocab/flood.png",
+    "source_upload": "flood_0eaf.png",
+    "trimmed_from_box": [
+      100,
+      145,
+      345,
+      305
+    ],
+    "size_wh": [
+      245,
+      160
+    ],
+    "note": "Inner photo only. Yellow frame, page background, neighbouring pictures, and printed English labels were trimmed so picture match is not spoiled."
+  },
+  {
+    "id": "landslide",
+    "file": "assets/vocab/landslide.png",
+    "source_upload": "landslide_60f5.png",
+    "trimmed_from_box": [
+      24,
+      78,
+      280,
+      245
+    ],
+    "size_wh": [
+      256,
+      167
+    ],
+    "note": "Inner photo only. Yellow frame, page background, neighbouring pictures, and printed English labels were trimmed so picture match is not spoiled."
+  },
+  {
+    "id": "avalanche",
+    "file": "assets/vocab/avalanche.png",
+    "source_upload": "avalanche_4714.png",
+    "trimmed_from_box": [
+      214,
+      54,
+      465,
+      215
+    ],
+    "size_wh": [
+      251,
+      161
+    ],
+    "note": "Inner photo only. Yellow frame, page background, neighbouring pictures, and printed English labels were trimmed so picture match is not spoiled."
+  },
+  {
+    "id": "earthquake",
+    "file": "assets/vocab/earthquake.png",
+    "source_upload": "earthquake_a1e8.png",
+    "trimmed_from_box": [
+      42,
+      24,
+      355,
+      252
+    ],
+    "size_wh": [
+      313,
+      216
+    ],
+    "note": "Inner photo only. Yellow frame, page background, neighbouring pictures, and printed English labels were trimmed so picture match is not spoiled."
+  },
+  {
+    "id": "hill fire",
+    "file": "assets/vocab/hill_fire.png",
+    "source_upload": "hill_fire_0ec1.png",
+    "trimmed_from_box": [
+      74,
+      54,
+      398,
+      246
+    ],
+    "size_wh": [
+      324,
+      192
+    ],
+    "note": "Inner photo only. Yellow frame, page background, neighbouring pictures, and printed English labels were trimmed so picture match is not spoiled."
+  },
+  {
+    "id": "tsunami",
+    "file": "assets/vocab/tsunami.png",
+    "source_upload": "tsunami_5723.png",
+    "trimmed_from_box": [
+      52,
+      48,
+      408,
+      278
+    ],
+    "size_wh": [
+      356,
+      230
+    ],
+    "note": "Inner photo only. Yellow frame, page background, neighbouring pictures, and printed English labels were trimmed so picture match is not spoiled."
+  },
+  {
+    "id": "volcanic eruption",
+    "file": "assets/vocab/volcanic_eruption.png",
+    "source_upload": "volcanic_eruption_008a.png",
+    "trimmed_from_box": [
+      48,
+      36,
+      412,
+      248
+    ],
+    "size_wh": [
+      364,
+      212
+    ],
+    "note": "Inner photo only. Yellow frame, page background, neighbouring pictures, and printed English labels were trimmed so picture match is not spoiled."
+  }
+]
